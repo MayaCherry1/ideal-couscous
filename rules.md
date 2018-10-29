@@ -13,7 +13,7 @@ Communicate and divide taks evenly. On large concepts we have agreed to come tog
 
 
 ## How will we track progress (and follow-up) on completion of tasks
-To track the progress, the team leader(Colin Mowbray) will hold the other members accountable and track the progress of the tasks.
+To track the progress, the team leader(Colin Mowbray) will hold the other members accountable and track the progress of the tasks. He do this through regular checkins throughout the week ensuring everyone is performing as scheduled.
 
 
 ## How will we communicate difficulties with a task assigned to us

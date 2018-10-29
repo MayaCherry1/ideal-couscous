@@ -26,5 +26,6 @@ The team leader(Colin Mowbray) and other members will frequently check in on the
 
 ## Add any other rules that your team establishes to help each other work effectively together
 Please be kind and respectful. If you fall behind, please communicate to other members for help. 
+Ask for help if anyone has any questions.
 
 

@@ -49,7 +49,7 @@ Data: First Name, Last Name, Major, Standing, Age, GPA, Courses Taken, Credits..
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+There will be options to search students by name or user ID. This will be implemented through a dropdown bar and text entry. The user can then select the student to see more information about them. There will be options to add additional courses or update GPA.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 

@@ -52,6 +52,15 @@ Data: First Name, Last Name, Major, Standing, Age, GPA, Courses Taken, Credits..
 There will be options to search students by name or user ID. This will be implemented through a dropdown bar and text entry. The user can then select the student to see more information about them. There will be options to add additional courses or update GPA.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+HashTable class implementing the hashtable
+ put() get() remove() basic functions of hashtable
+HashTableADT class implementing the hashtable structure
+ put() get() remove() basic functions of hashtable
+Student class student object with various values (ID, GPA...)
+ search() get a student and related information
+ showAllByName() show all students names in alphabetically
+ 
+ 
 
 
 

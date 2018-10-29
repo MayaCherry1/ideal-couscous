@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 88 Project Student Data Base
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -39,7 +39,7 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+The output of the program will include information of students ranging from student ID, GPA, courses, etc.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
